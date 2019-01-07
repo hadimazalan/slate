@@ -1,14 +1,11 @@
 ---
-title: Host Terminal  Reference (Credit Card Terminal)
+title: Host Terminal SDK
 
 language_tabs:
-  - shell
-  - ruby
-  - python
   - javascript
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
+  - Developed by Hadimazalan
   - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
 includes:
@@ -19,7 +16,7 @@ search: true
 
 # Introduction
 
-Welcom to Host Terminal SDK! You can use our SDK to access the credit card host terminal bussines logic, which you can make transaction directly to the device using WebSocket connectivity.
+Welcome to Host Terminal SDK! You can use our SDK to access the credit card host terminal bussines logic, which you can make transaction directly to the device using WebSocket connectivity.
 
 Currently, we only provide language binding in Javascript and will add more in near future. You can view code examples to transact the SDK using any frontend language.
 
