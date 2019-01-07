@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: Host Terminal  Reference (Credit Card Terminal)
 
 language_tabs:
   - shell
